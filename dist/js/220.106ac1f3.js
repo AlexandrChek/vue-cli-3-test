@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkproject_vue3"]=self["webpackChunkproject_vue3"]||[]).push([[220],{220:function(e,n,r){r.r(n),r.d(n,{default:function(){return i}});var t=r(3396),u=r(7139);const a=(0,t.Uk)("Post "),o=(0,t.Uk)(" has already been moderated.");function s(e,n,r,s,c,d){return(0,t.wg)(),(0,t.iD)("div",null,[a,(0,t._)("b",null,(0,u.zw)(e.$route.params.id),1),o])}var c={name:"PostItem"},d=r(89);const l=(0,d.Z)(c,[["render",s]]);var i=l}}]);
+//# sourceMappingURL=220.106ac1f3.js.map
